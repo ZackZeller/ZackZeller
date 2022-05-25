@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZackZeller
-- 👀 I’m interested in sustainability and plants
+- 👀 I’m interested in sustainability, tech and plants
 - 🌱 I’m currently pursuing a masters degree in Global Change Ecology
-- 💞️ I’m looking to collaborate on any and all sustainability research
+- 💞️ I’m looking to collaborate on exciting new projects
 - 📫 Email me at zackyzeller@gmail.com
 
 <!---
